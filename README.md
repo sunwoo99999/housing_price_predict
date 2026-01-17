@@ -8,6 +8,7 @@ This MATLAB project performs comprehensive housing price prediction and analysis
 - `graphtest.m`: Simple sine wave plotting demonstration
 
 <img src="https://github.com/sunwoo99999/housing_price_predict/blob/main/Correlation%20Heatmap.png?raw=true" height="300"/>
+<img src="https://github.com/sunwoo99999/housing_price_predict/blob/main/Regression%20Results.png?raw=true" height="300"/>
 
 ## Table of Contents
 
@@ -507,4 +508,5 @@ Created by seonwoo kang
 **Last Updated**: January 15, 2026
 
 For questions or issues, please ensure your MATLAB version supports all required functions and toolboxes.
+
 
