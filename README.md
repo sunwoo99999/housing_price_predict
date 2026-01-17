@@ -112,7 +112,7 @@ This will create a simple sine wave plot.
 #### Section 1: Initialization and Data Loading
 
 ```matlab
-%% 1. 초기화 및 데이터 로드
+%% 1. initialization and data load
 ```
 
 - Clears workspace and closes all figures
@@ -130,7 +130,7 @@ This will create a simple sine wave plot.
 #### Section 2: Variable Name Normalization
 
 ```matlab
-%% 2. 변수명 정규화
+%% 2. variable normalization
 ```
 
 - Converts all variable names to lowercase
@@ -143,7 +143,7 @@ This will create a simple sine wave plot.
 #### Section 3: Data Preprocessing
 
 ```matlab
-%% 3. 데이터 전처리
+%% 3. data preprocessing
 ```
 
 - **Categorical to Numeric Conversion**:
@@ -159,7 +159,7 @@ This will create a simple sine wave plot.
 #### Section 4: Correlation Analysis
 
 ```matlab
-%% 4. 변수 간 상관관계 히트맵
+%% 4. Correlation heatmap between variables
 ```
 
 - Generates a correlation matrix for all numeric variables
@@ -175,7 +175,7 @@ This will create a simple sine wave plot.
 #### Section 5: Multiple Linear Regression
 
 ```matlab
-%% 5. 다중회귀분석
+%% 5. multi regression model
 ```
 
 - **Data Splitting**: 80% training, 20% testing (using `cvpartition`)
@@ -189,7 +189,7 @@ $$\text{Price} = \beta_0 + \beta_1 \cdot \text{area} + \beta_2 \cdot \text{bedro
 #### Section 6: Model Performance Evaluation
 
 ```matlab
-%% 6. 모델 성능 평가
+%% 6. model performance evaluation
 ```
 
 Calculates key metrics:
@@ -205,7 +205,7 @@ Calculates key metrics:
 #### Section 7: Visualization
 
 ```matlab
-%% 7. 결과 시각화
+%% 7. result visualization
 ```
 
 Creates a two-panel figure:
